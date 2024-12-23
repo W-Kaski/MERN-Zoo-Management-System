@@ -1,1 +1,1 @@
-# -MERN-Zoo-Management-System
+# MERN-Zoo-Management-System
